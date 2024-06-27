@@ -1,4 +1,4 @@
-# Celibrity Face Recognition (Sports Personalities Classification)
+# Celibrity Face Recognition <br> (Sports Personalities Classification)
 
 This project demonstrates a comprehensive step-by-step process for building a machine-learning model to classify images of sports personalities. The classification is restricted to five individuals: Maria Sharapova, Serena Williams, Virat Kohli, Roger Federer, and Lionel Messi.
 
